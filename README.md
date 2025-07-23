@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Sharad Patil (@sharad641)
 
 - 👀 I’m interested in Full Stack Development, Quantum Computing, and AI for Social Impact  
-- 🌱 I’m currently learning Next.js, Supabase, and Quantum Molecular Simulation for Drug Discovery  
+- 🌱 I’m currently learning Next.js, Supabase... 
 - 💞️ I’m looking to collaborate on open-source platforms, student tools, and research-based projects  
 - 📫 How to reach me:  
   - ✉️ sharadpatil02003@gmail.com  

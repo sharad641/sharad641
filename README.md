@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 👨‍💻 Computer Science Undergrad (IoT, Cyber Security & Blockchain) at DSATM, Bengaluru  
-- 👀 Passionate about Full Stack Development, Quantum Computing & AI for Social Good  
-- 🌱 Currently learning: **Next.js**, **Supabase**, and **System Design**  
+- 👀 Passionate about Full Stack Development & AI for Social Good  
+- 🌱 Currently learning: **Next.js**, **AI & ML**, and **System Design**  
 - 💡 Exploring impactful domains in **Open Source**, **Academic Platforms**, and **IoT-based Solutions**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun Fact: I’ve written 35+ songs, published in ANKURA, and built VTU Notes (3rd on Google, 80K+ views)

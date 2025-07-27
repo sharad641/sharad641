@@ -1,48 +1,69 @@
-### 👋 Hi, I’m Sharad Patil (@sharad641)
+# 👋 Hi, I’m Sharad Patil (@sharad641)
 
-- 👀 I’m interested in Full Stack Development, Quantum Computing, and AI for Social Impact  
-- 🌱 I’m currently learning Next.js, Supabase... 
-- 💞️ I’m looking to collaborate on open-source platforms, student tools, and research-based projects  
-- 📫 How to reach me:  
-  - ✉️ sharadpatil02003@gmail.com  
-  - 🌐 [vtunotesforall.in](https://vtunotesforall.in) – A platform helping thousands of VTU students  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/sharad-patil-691902259/) | [GitHub](https://github.com/sharad641)  
+## 🚀 About Me
+- 👨‍💻 Computer Science Undergrad (IoT, Cyber Security & Blockchain) at DSATM, Bengaluru  
+- 👀 Passionate about Full Stack Development, Quantum Computing & AI for Social Good  
+- 🌱 Currently learning: **Next.js**, **Supabase**, and **System Design**  
+- 💡 Exploring impactful domains in **Open Source**, **Academic Platforms**, and **IoT-based Solutions**  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’ve written over 35 songs, published in ANKURA, and built VTU Notes which ranked 3rd on Google with 80K+ views 🚀  
+- ⚡ Fun Fact: I’ve written 35+ songs, published in ANKURA, and built VTU Notes (3rd on Google, 80K+ views)
+
+## 📫 Contact Me
+- ✉️ Email: [sharadpatil02003@gmail.com](mailto:sharadpatil02003@gmail.com)  
+- 🌐 Website: [vtunotesforall.in](https://vtunotesforall.in) – Helping 25K+ VTU students  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharad-patil-691902259/) | [GitHub](https://github.com/sharad641)
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages**: Java, JavaScript, Python  
-**Frameworks**: React, Node.js, Express.js, Next.js  
-**Databases**: Firebase, MongoDB, MySQL  
-**Tools**: Git, Postman, VS Code, Netlify  
-**Cloud/APIs**: Firebase, Razorpay, TalkJS, Google Drive API  
-**Other**: SEO, AdSense, Analytics, OpenCV, MediaPipe
+## 🛠️ Tech Stack
+
+**Languages**:  
+`Java` `JavaScript` `Python` `PHP` `HTML/CSS`
+
+**Frameworks/Libraries**:  
+`React` `Next.js` `Node.js` `Express.js` `Tailwind CSS`
+
+**Databases**:  
+`Firebase` `MongoDB` `MySQL`
+
+**Tools & Platforms**:  
+`Git` `VS Code` `Postman` `Netlify` `Linux` `WordPress`
+
+**Cloud & APIs**:  
+`Firebase` `Razorpay` `TalkJS` `Google Drive API`
+
+**Other Skills**:  
+`SEO` `AdSense` `Analytics` `OpenCV` `MediaPipe`
 
 ---
 
-### 📌 Featured Projects  
+## 📌 Featured Projects
 
-- 🔹 **[VTU Notes For All](https://vtunotesforall.in)**  
-  React + Firebase based academic platform helping VTU students access notes, previous papers, and CGPA calculators.  
-  🏆 80K+ views, 25K+ users, 30K+ downloads, ranked 3rd on Google.
+### 🔹 [VTU Notes For All](https://vtunotesforall.in)
+> A React + Firebase academic portal providing semester-wise notes, papers, and CGPA tools for VTU students.  
+🏆 80K+ views • 25K+ users • 30K+ downloads • 3rd on Google
 
-- 🔹 **[LegalDeck](https://github.com/sharad641/LegalDeck)**  
-  Online legal consultation platform using Next.js, MongoDB, Razorpay & TalkJS.  
-  Features include Google OAuth, secure chats, appointment scheduling, and payment via escrow.
+### 🔹 [LegalDeck](https://github.com/sharad641/LegalDeck)
+> Online legal consultation system built with **Next.js**, **MongoDB**, **Razorpay**, and **TalkJS**.  
+💼 Features Google OAuth, appointment booking, chat, and secure uploads.
 
-- 🔹 **Wanderlust – Hotel Review System**  
-  MERN Stack project allowing users to review and rate hotels, with features like search, authentication, and admin dashboard.
+### 🔹 [Wanderlust](https://github.com/sharad641/wanderlust)
+> Hotel review & booking system (MERN Stack) with JWT auth, search, CRUD, and admin control.
 
-- 🔹 **Smart Pollution Monitoring System (IoT)**  
-  Built using sensors and microcontrollers to monitor air quality in real-time with cloud integration and alert system.  
+### 🔹 Smart Pollution Monitoring System
+> IoT-based air quality monitoring using microcontrollers and real-time cloud alerts.
 
-- 🔹 **ITR Plus – Income Tax Return Platform**  
-  Secure web portal for submitting ITR documents. Designed with React and Firebase to streamline tax filing.
+### 🔹 ITR Plus
+> Tax return portal built using React & Firebase to simplify ITR document submission securely.
 
-- 🔹 **Real-Time Head Pose Estimation**  
-  OpenCV + Python + MediaPipe-based system for tracking driver fatigue by analyzing yaw, pitch, and roll angles via webcam.
+### 🔹 Real-Time Head Pose Estimation
+> Driver drowsiness detection using **OpenCV**, **Python**, and **MediaPipe** to analyze yaw, pitch, and roll angles.
+
+---
+
+## 📜 Certifications
+- 🎓 Java Programming – Core Java, OOPs, DSA, Mini Projects  
+- 🔐 Cyber Security – FutureSkills PRIME by NIELIT
 
 ---
 
